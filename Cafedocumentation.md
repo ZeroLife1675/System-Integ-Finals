@@ -395,7 +395,7 @@ PATCH /orders/{id}/status
     <message>Order status updated to 'Completed'.</message>
 </response>
 ```
-#### Delete an Order
+### Delete an Order
 ```
 DELETE /orders/{id}
 ```
