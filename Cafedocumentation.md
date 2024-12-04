@@ -2,8 +2,6 @@
 ## Overview
 The Ordinary Cafe Shop API allows the user to mange the menu and orders.  It provides endpoints to create, read, update, and delete menus and orders. The API follows the RESTapi principles and meets the  Richardson REST API maturity sample.
 
-**Authentication:** `Authorization: {sample}`
-
 **Base URL** `https://api.ordinarycafeshop.com/v1`
 
 ## Error Handling
