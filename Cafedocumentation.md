@@ -450,8 +450,6 @@ PATCH /orders/{id}/status
 **Headers:** 
     - `Content-Type: application/json`, `Accept: application/xml`
 
-**Request:**
-
 **Request body (JSON):**
   ```json
   {
