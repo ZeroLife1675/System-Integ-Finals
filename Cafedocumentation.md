@@ -239,7 +239,7 @@ DELETE /menu-items/{id}
 
 ### Get All Orders
 ```
-GET /menu-items
+GET /orders
 ```
 
 **Description:** Retrieves all customer orders.
